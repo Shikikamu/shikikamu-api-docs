@@ -1,1 +1,1 @@
-# shikikamu-api-docs
+# Shikikamu Docs
